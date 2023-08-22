@@ -1,0 +1,3 @@
+this is text document.
+git checkout -b "branchname" --used to create a new branch
+git checkout "branchnamr" -- used to navigate branchname--permisiions
